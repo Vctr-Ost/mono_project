@@ -4,9 +4,9 @@
 
 AIRFLOW_UID=501
 
-ACCOUNT_ID_2={"black":"", "white":""}    - insert cards from https://api.monobank.ua/personal/client-info
+ACCOUNT_ID_2={"black":"", "white":""}    *- insert cards from https://api.monobank.ua/personal/client-info*
 
-X_TOKEN=      - insert x-toket mono API
+X_TOKEN=      *- insert x-toket mono API*
 
 POSTGRES_USER=
 
